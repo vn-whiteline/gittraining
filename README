@@ -6,10 +6,23 @@ git config user.email="vn@whiteline-group.com"
 git status
 git add README
 git commit -m "Create Project"
+git log
+git log -2
+git show -2
+
 
 ssh-keygen -t rsa
 git remote add origin git@github.com:vn-whiteline/TrainGit.git
 git remote set-url origin get@github.com:vn-whiteline/TrainGit.get
 git remote -v
 
-Conflick
+git branch develop
+git branch
+git branch -a
+git checkout develop
+.gitignore
+git merge develop
+git push origin master
+git push origin develop
+
+>>>>>>> master
