@@ -11,3 +11,5 @@ ssh-keygen -t rsa
 git remote add origin git@github.com:vn-whiteline/TrainGit.git
 git remote set-url origin get@github.com:vn-whiteline/TrainGit.get
 git remote -v
+
+Conflick
