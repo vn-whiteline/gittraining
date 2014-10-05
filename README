@@ -1,3 +1,5 @@
 TRAIING GIT @ STAMP HQ
 =========
-
+git init
+git config user.name="vn-whiteline"
+git config user.email="vn@whiteline-group.com"
